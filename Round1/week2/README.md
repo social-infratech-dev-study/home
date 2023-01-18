@@ -1,10 +1,10 @@
 # 프로젝트 라벨 및 이슈 템플릿 자동화
 
-## 타겟 article(?)
+## 타겟 article
 
 [Github Label, Issue, Pull Request Template 적용하기](https://velog.io/@modolee/github-initial-settings)
 
-### setting
+## setting
 
 ```bash
 
@@ -20,7 +20,7 @@ npm install
 
 ```
 
-### label
+## label
 
 [github-label-sync](https://www.npmjs.com/package/github-label-sync)
 
@@ -43,10 +43,10 @@ npm install -g github-label-sync
 github-label-sync --dry-run --access-token [액세스 토큰] --labels [라벨 json 파일명] [계정명]/[저장소 이름]
 ```
 
-### Issue template
+## Issue template
 
 `.github/ISSUE_TEMPLATE` 하위에 md 파일로 생성
 
-### PR template
+## PR template
 
 `.github/PULL_REQUEST_TEMPLATE.md` 파일로 생성
