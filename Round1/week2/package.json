@@ -1,0 +1,12 @@
+{
+  "name": "study-week2",
+  "version": "1.0.0",
+  "description": "dev study",
+  "author": "none",
+  "scripts": {
+    "label": "github-label-sync --labels labels.json social-infratech-dev-study/home"
+  },
+  "devDependencies": {
+    "github-label-sync": "^2.2.0"
+  }
+}
