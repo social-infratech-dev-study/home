@@ -4,14 +4,6 @@
 
 [Github Label, Issue, Pull Request Template 적용하기](https://velog.io/@modolee/github-initial-settings)
 
-## Label
-
-## Issue Template
-
-## Pull Request Template
-
-## 실습 코드
-
 ### setting
 
 ```bash
@@ -40,3 +32,21 @@ node labels/get.js
 node labels/set.js
 
 ```
+
+```bash
+npm install -g github-label-sync
+```
+
+`--dry-run`옵션으로 단순히 라벨 확인만 할 수 있음
+
+```bash
+github-label-sync --dry-run --access-token [액세스 토큰] --labels [라벨 json 파일명] [계정명]/[저장소 이름]
+```
+
+### Issue template
+
+`.github/ISSUE_TEMPLATE` 하위에 md 파일로 생성
+
+### PR template
+
+`.github/PULL_REQUEST_TEMPLATE.md` 파일로 생성
