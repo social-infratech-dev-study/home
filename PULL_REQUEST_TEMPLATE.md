@@ -1,4 +1,3 @@
-<!-- root path PULL_REQUEST_TEMPLATE -->
 <!-- merge시 닫을 깃헙 이슈 번호 -->
 
 close #
