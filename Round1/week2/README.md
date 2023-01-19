@@ -75,8 +75,6 @@ resolves
 resolved
 ```
 
-
-
 ## 레포 변경사항
 [General](https://github.com/social-infratech-dev-study/home/settings)
 
