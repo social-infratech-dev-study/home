@@ -1,10 +1,10 @@
 ---
-name: JWSEO issue template
+name: Kate issue template
 about: Describe this issue template's purpose here.
 title: ''
-labels: Refactor
+labels: Docs
 assignees: ''
 
 ---
 
-## 템플릿 주요 내용
+####
