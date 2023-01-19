@@ -76,20 +76,25 @@ resolved
 ```
 
 
-### Git Branch Protection Rule
 
-깃 코드 merge 할때 조건
-
-https://kth990303.tistory.com/317
 
 ## 레포 변경사항
+
 [General](https://github.com/social-infratech-dev-study/home/settings)
 
 squash merge 하나로만 적용, 제목 기본 설정 수정
 - Allow squash merging 
 - Default to pull request title ()
 
+merge된 remote 브랜치 자동 삭제
+- Automatically delete head branches 
+
 [Branch protection rules](https://github.com/social-infratech-dev-study/home/settings/branches)
+
+-
+
+https://kth990303.tistory.com/317
+https://hong-dev.github.io/bftest/master_branch/
 
 merge전 PR 승인 필요
 - Require a pull request before merging
