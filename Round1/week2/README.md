@@ -76,6 +76,11 @@ resolved
 ```
 
 
+### Git Branch Protection Rule
+
+깃 코드 merge 할때 조건
+
+https://kth990303.tistory.com/317
 
 ## 레포 변경사항
 [General](https://github.com/social-infratech-dev-study/home/settings)
