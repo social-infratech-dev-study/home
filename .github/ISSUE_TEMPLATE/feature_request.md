@@ -1,8 +1,8 @@
 ---
-name: Argent Issue
-about: Alert a critical issue
-title: "[ARGENT]"
-labels: BugFix_마구변경해도
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
 assignees: ''
 
 ---
