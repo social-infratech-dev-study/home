@@ -1,5 +1,5 @@
 ---
-name: Argent Issue
+name: Urgent Issue
 about: Alert a critical issue
 title: "[ARGENT]"
 labels: BugFix_마구변경해도
