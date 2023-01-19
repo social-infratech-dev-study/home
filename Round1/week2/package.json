@@ -1,0 +1,13 @@
+{
+  "name": "study-week2",
+  "version": "1.0.0",
+  "description": "dev study",
+  "author": "none",
+  "scripts": {
+    "get": "node labels/get.js",
+    "set": "node labels/set.js"
+  },
+  "devDependencies": {
+    "github-label-sync": "^2.2.0"
+  }
+}
