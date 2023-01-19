@@ -4,7 +4,8 @@
   "description": "dev study",
   "author": "none",
   "scripts": {
-    "label": "github-label-sync --labels labels.json social-infratech-dev-study/home"
+    "get": "node labels/get.js",
+    "set": "node labels/set.js"
   },
   "devDependencies": {
     "github-label-sync": "^2.2.0"
