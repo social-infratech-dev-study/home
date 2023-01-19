@@ -33,5 +33,10 @@
     "name": "Test",
     "color": "FBCA04",
     "description": "Everything related to testing"
+  },
+  {
+    "name: "Crazy Isseu",
+    "color": "000000",
+    "description": "It is crazy!"
   }
 ]
