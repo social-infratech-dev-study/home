@@ -6,7 +6,12 @@ git/github 을 사용한 협업 능력 향상
 
 ### 참여자
 
-- uom6uoc(서종원)
+- soonkuk (강순국)
+- wyuinche (박민주)
+- congchu (구민정)
+- Geunbaek (박근백)
+- hjoo3355 (김현주)
+- uom6uoc (서종원)
 
 ### 방법
 
