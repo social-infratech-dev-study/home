@@ -6,7 +6,7 @@ fs.readFile(__dirname + "/labels.json", (err, data) => {
   const labels = JSON.parse(data);
 
   githubLabelSync({
-    accessToken: "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", // "토큰",
+    accessToken: "Token", // "토큰",
     repo: "social-infratech-dev-study/home", // "계정명/저장소이름",
     labels: labels,
   })

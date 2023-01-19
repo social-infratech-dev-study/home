@@ -1,8 +1,8 @@
 ---
 name: Issue Template
 about: Create a report to help us improve
-title: " "
-labels: Chore
+title: "Study "
+labels: Docs
 ---
 
 ## 이슈 개요
