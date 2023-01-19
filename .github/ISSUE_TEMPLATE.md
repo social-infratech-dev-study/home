@@ -1,8 +1,10 @@
 ---
 name: Issue Template
 about: Create a report to help us improve
-title: "Study "
+title: 'Study'
 labels: Docs
+assignees: ''
+
 ---
 
 ## 이슈 개요
