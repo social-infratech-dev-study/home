@@ -10,6 +10,11 @@
     "description": "Regular code maintenance."
   },
   {
+    "name": "CrazyIssue",
+    "color": "81F79F",
+    "description": "This is a crazy issue you must fix right now"
+  },
+  {
     "name": "Docs",
     "color": "0052CC",
     "description": "Everything related to documentation"
@@ -31,6 +36,11 @@
   },
   {
     "name": "Test",
+    "color": "FBCA04",
+    "description": "Everything related to testing"
+  },
+  {
+    "name": "TTTTTT",
     "color": "FBCA04",
     "description": "Everything related to testing"
   }
