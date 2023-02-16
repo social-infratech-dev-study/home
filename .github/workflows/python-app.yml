@@ -2,7 +2,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: "*/10 * * * *" #10분마다 한번씩
+    - cron: "* * * * *" #10분마다 한번씩
   workflow_dispatch:
     inputs:
       logLevel:
