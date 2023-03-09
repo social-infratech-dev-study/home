@@ -1,47 +1,62 @@
 [
   {
-    "name": "BugFix",
-    "color": "B60205",
-    "description": "Reported bugs or bug fixes"
-  },
-  {
-    "name": "Chore",
+    "name": "⚙ Setting",
     "color": "e3dede",
-    "description": "Regular code maintenance."
+    "description": "개발 환경 세팅"
   },
   {
-    "name": "CrazyIssue",
-    "color": "81F79F",
-    "description": "This is a crazy issue you must fix right now"
+    "name": "✨ Feature",
+    "color": "a2eeef",
+    "description": "기능 개발"
   },
   {
-    "name": "Docs",
-    "color": "0052CC",
-    "description": "Everything related to documentation"
+    "name": "🌏 Deploy",
+    "color": "C2E0C6",
+    "description": "배포 관련"
   },
   {
-    "name": "Feature",
-    "color": "0E8A16",
-    "description": "The new feature you're adding to a particular application"
+    "name": "🎨 Html&css",
+    "color": "FEF2C0",
+    "description": "마크업 & 스타일링"
   },
   {
-    "name": "Refactor",
-    "color": "006B75",
-    "description": "Refactoring a specific section of the codebase"
+    "name": "🐞 BugFix",
+    "color": "d73a4a",
+    "description": "Something isn't working"
   },
   {
-    "name": "Style",
-    "color": "FB08F5",
-    "description": "Feature and updates related to styling"
+    "name": "💻 CrossBrowsing",
+    "color": "C5DEF5",
+    "description": "브라우저 호환성"
   },
   {
-    "name": "Test",
-    "color": "FBCA04",
-    "description": "Everything related to testing"
+    "name": "📃 Docs",
+    "color": "1D76DB",
+    "description": "문서 작성 및 수정 (README.md 등)"
   },
   {
-    "name": "TTTTTT",
-    "color": "FBCA04",
-    "description": "Everything related to testing"
+    "name": "📬 API",
+    "color": "D4C5F9",
+    "description": "서버 API 통신"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "🙋‍♂️ Question",
+    "color": "9ED447",
+    "description": "Further information is requested"
+  },
+  {
+    "name": "🥰 Accessibility",
+    "color": "facfcf",
+    "description": "웹접근성 관련"
+  },
+  {
+    "name": "✅ Test",
+    "color": "ccffc4",
+    "description": "test 관련(storybook, jest...)"
   }
 ]

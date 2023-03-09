@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BugFix",
+    "color": "dc3545",
+    "description": "Reported bugs or bug fixes"
+  },
+  {
+    "name": "Chore",
+    "color": "e3dede",
+    "description": "Regular code maintenance."
+  },
+  {
+    "name": "Docs",
+    "color": "007bff",
+    "description": "Everything related to documentation"
+  },
+  {
+    "name": "Feature",
+    "color": "198754",
+    "description": "The new feature you're adding to a particular application"
+  },
+  { "name": "QA", "color": "E93180", "description": "for QA issue" },
+  {
+    "name": "Refactor",
+    "color": "17a2b8",
+    "description": "Refactoring a specific section of the codebase"
+  },
+  {
+    "name": "Style",
+    "color": "6f42c1",
+    "description": "Feature and updates related to styling"
+  },
+  {
+    "name": "Test",
+    "color": "ffc107",
+    "description": "Everything related to testing"
+  }
+]

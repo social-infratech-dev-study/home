@@ -6,14 +6,14 @@ fs.readFile(__dirname + "/labels.json", (err, data) => {
   const labels = JSON.parse(data);
 
   githubLabelSync({
-    accessToken: "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", // "토큰",
-    repo: "social-infratech-dev-study/home", // "계정명/저장소이름",
+    accessToken: "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", // "토큰",
+    repo: "ProtoconNet/protocon-explorer-v2", // "계정명/저장소이름",
     labels: labels,
   })
     .then((_) => {
       console.log("Success");
     })
-    .catch((_) => {
-      console.log("Failure");
+    .catch((error) => {
+      console.log("Failure", error);
     });
 });
