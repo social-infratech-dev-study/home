@@ -1,4 +1,11 @@
+```
+작성자: 서종원
+날짜: 2023. 03.09
+```
+
+
 # IAM
+
 
 ## AWS Identity and Access Management
 IAM은 AWS 리소스에 대한 액세스를 안전하게 제어할 수 있는 웹 서비스
@@ -22,6 +29,7 @@ AWS 계정을 생성할 때는 해당 계정의 모든 권한이 단일 로그�
 ### RBAC(Role-Based access Control)
 - 접근이나 작업에 대한 권한을 역할에 따라 결정
 - 요리사, 경찰관, 교사 라는 Role
+
 ![RBAC](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/images/tutorial-abac-concept.png)
 
 ### ABAC(Attribute-Based Access Control)

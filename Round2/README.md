@@ -1,8 +1,6 @@
-# 소셜인프라테크 개발자 스터디
+# ROUND2 (2023.03.09 ~ )
 
-## ROUND2 (2023.03.09 ~ )
-
-aws 
+## AWS 서비스 직접 사용해보기 
 
 ### 참여자
 
@@ -13,11 +11,30 @@ aws
 - hjoo3355 (김현주, hjoo33550@gmail.com)
 - uom6uoc (서종원, uom6uoc@gmail.com)
 
-### 방법
+### 주제
 
-1. 
+1. Lambda
+2. IAM
+3. EC2
+4. EB
+5. S3
+6. CloudWatch
 
 ### 일정
 
-- WEEK1 - 2022.03.09 : overview
+> WEEK1 - 2022.03.09, `Overview`, 전원
+
+> WEEK2 - 2022.03.16, `CloudWatch`, 강순국
+
+> WEEK3 - 2022.03.23, 
+
+> WEEK4 - 2022.03.30, 
+
+> WEEK5 - 2022.04.06, 
+
+> WEEK6 - 2022.04.13, 
+
+> WEEK7 - 2022.04.20, 
+
+
 
