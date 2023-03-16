@@ -1,3 +1,8 @@
+```
+Author: soonkuk
+Date: March 16, 2023
+```
+
 ## CloudWatch Training
 - AWS 프리 티어
   - AWS 프리 티어는 새로운 AWS 계정에서 특정 양과 유형의 리소스를 1년 동안 무료로 사용할 수 있는 기회를 제공하는 것.

@@ -19,6 +19,7 @@
 4. EB
 5. S3
 6. CloudWatch
+7. VPC(Virtual Private Cloud)
 
 ### 일정
 
@@ -26,7 +27,7 @@
 
 > WEEK2 - 2022.03.16, `CloudWatch`, 강순국
 
-> WEEK3 - 2022.03.23, 
+> WEEK3 - 2022.03.23, `VPC`, 강순국
 
 > WEEK4 - 2022.03.30, 
 
