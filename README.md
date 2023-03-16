@@ -14,3 +14,6 @@ AWS 서비스 직접 사용해보기
 - Geunbaek (박근백)
 - hjoo3355 (김현주)
 - uom6uoc (서종원)
+
+
+### gpg setting
