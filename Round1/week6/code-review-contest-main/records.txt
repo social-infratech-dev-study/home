@@ -1,0 +1,17 @@
+1등: congchu
+2등: Geunbaek
+인기상: uom6uoc
+참가상: hjoo3355, soonkuk
+
+점수 산출 기준
+* issue, pr 등록 +1
+* review comment +1 (reviewer 상관없이)
+* review approve +1
+* pr merge +N
+
+* 감점없음!
+* 옳지 않는 리뷰 및 assignee가 설정되지 않은 이슈는 플러스 점수 없음!
+
+레코드
+- 1등: congchu
+- 2등: Geunbaek

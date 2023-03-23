@@ -1,0 +1,16 @@
+name: Node.js CI (wyuinche)
+
+on:
+  push:
+    branches: ["wyuinche"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js 14.x,
+        uses: actions/setup-node@v3
+      - run: npm i
+      - run: npm test
+      - run: npm run chat
