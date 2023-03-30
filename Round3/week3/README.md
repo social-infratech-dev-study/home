@@ -92,22 +92,24 @@ $ eb create [환경 이름]
 
 ### 5단계: 새 버전의 애플리케이션 배포해보기
 
-소스코드 수정 후, 배포
+소스코드를 부분 수정 후, 배포 합니다.
+웹 링크를 통해 변경되었는지 확인합니다.
 
 ```shell
 $ eb deploy
 
 ```
 
-반영되었는지 확인
+### 6단계: 셋팅 가능한 환경 확인하기
 
-### 6단계: 셋팅 가능한 환경 및 서드파티 확인
+- [[공식 문서] EB 환경 구성](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/customize-containers.html)
 
 ---
 
 ## 참고 링크
 
-- [AWS Basic Deployment Workshop(공식문서)](https://catalog.us-east-1.prod.workshops.aws/workshops/3fd6c80b-39f2-4534-b69c-c400aed50c67/ko-KR)
+- [(AWS 워크샵) AWS Basic Deployment Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/3fd6c80b-39f2-4534-b69c-c400aed50c67/ko-KR)
+- [(공식문서) AWS EB 개발자 안내서](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/Welcome.html)
 - [AWS Elastic Beanstalk을 사용해서 웹 애플리케이션 배포하기](https://dev.classmethod.jp/articles/deploy-express-application-to-elastic-beanstalk/)
 
 ```
