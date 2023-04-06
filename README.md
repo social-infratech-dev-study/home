@@ -8,14 +8,14 @@
 ### 일정
 
 | 주차 | 날짜        | 주제                            | 담당자   |
-|------|-------------|---------------------------------|----------|
-| 1    | 2022.01.12  | GitHub 기능에 대한 Overview     | [congchu](koominjeong@socialinfratech.com)  |
-| 2    | 2022.01.19  | 라벨 및 템플릿                  | [uom6uoc](uom6uoc@gmail.com)  |
-| 3    | 2022.01.26  | Fork를 사용한 Git 협업 작업     | [soonkuk](soonkuk.kang@socialinfratech.com)  |
-| 4    | 2022.02.02  | GitHub Action                   | [Geunbaek](baek@socialinfratech.com) |
-| 5    | 2022.02.09  | Slack Bot                       | [hjoo3355](hjoo33550@gmail.com) |
-| 6    | 2022.02.16  | 코드 리뷰 대회                  | [wyuinche](minju.park@socialinfratech.com) |
-
+|------|-------------|-------------------------------|----------|
+| 1    | 2022.01.12  | `GitHub 기능에 대한 Overview`    | congchu  |
+| 2    | 2022.01.19  | `라벨 및 템플릿`                 | uom6uoc  |
+| 3    | 2022.01.26  | `Fork를 사용한 Git 협업 작업 `    | soonkuk  |
+| 4    | 2022.02.02  | `GitHub Action  `             | Geunbaek |
+| 5    | 2022.02.09  | `Slack Bot`                   | hjoo3355 |
+| 6    | 2022.02.16  | `코드 리뷰 대회 `                | wyuinche |
+|      |             |                               |          |
 ## ROUND 2 - AWS 서비스 직접 사용해보기 (2022.03.09 ~ )
 
 1. Lambda
@@ -29,21 +29,22 @@
 ### 일정
 
 | 주차 | 날짜        | 주제            | 담당자   |
-|------|-------------|-----------------|----------------------------------------------|
-| 1    | 2022.03.09  | Overview        | All                                          |
-| 2    | 2022.03.16  | CloudWatch      | [soonkuk](soonkuk.kang@socialinfratech.com)  |
-| 3    | 2022.03.23  | VPC             | [soonkuk](soonkuk.kang@socialinfratech.com)  |
-| 4    | 2022.03.30  | EB              | [congchu](koominjeong@socialinfratech.com)   |
-| 5    | 2022.04.06  | IAM             | [uom6uoc](uom6uoc@gmail.com)                 |
-| 6    | 2022.04.13  | S3              | [Geunbaek](baek@socialinfratech.com)         |
-| 7    | 2022.04.20  | Lambda          | [wyuinche](minju.park@socialinfratech.com)   |
+|------|-------------|-------------------|----------|
+| 1    | 2022.03.09  | `Overview`        | All      |
+| 2    | 2022.03.16  | `CloudWatch`      | soonkuk  |
+| 3    | 2022.03.23  | `VPC`             | soonkuk  |
+| 4    | 2022.03.30  | `EB`              | congchu  |
+| 5    | 2022.04.06  | `IAM`             | uom6uoc  |
+| 6    | 2022.04.13  | `S3`              | Geunbaek |
+| 7    | 2022.04.20  | `Lambda`          | wyuinche |
+|      |             |                   |          |
 
-### 참여자
+## 참여자
 
-- 강순국 [soonkuk](soonkuk.kang@socialinfratech.com)
-- 박민주 [wyuinche](minju.park@socialinfratech.com)
-- 구민정 [congchu](koominjeong@socialinfratech.com)
-- 박근백 [Geunbaek](baek@socialinfratech.com)
-- 김현주 [hjoo3355](hjoo33550@gmail.com)
-- 서종원 [uom6uoc](uom6uoc@gmail.com)
-- 박인균 [JustinInkyunPark](justin.park@socialinfratech.com)
+- 강순국 [soonkuk](https://github.com/soonkuk) - soonkuk.kang@socialinfratech.com
+- 박민주 [wyuinche](https://github.com/wyuinche) - minju.park@socialinfratech.com
+- 구민정 [congchu](https://github.com/congchu) - koominjeong@socialinfratech.com
+- 박근백 [Geunbaek](https://github.com/Geunbaek) - baek@socialinfratech.com
+- 김현주 [hjoo3355](https://github.com/hjoo3355) - hjoo33550@gmail.com
+- 서종원 [uom6uoc](https://github.com/uom6uoc) - uom6uoc@gmail.com
+- 박인균 [JustinInkyunPark](https://github.com/JustinInkyunPark) - justin.park@socialinfratech.com
