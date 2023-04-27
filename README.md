@@ -16,11 +16,11 @@
 | 5    | 2022.02.09  | `Slack Bot`                   | hjoo3355 |
 | 6    | 2022.02.16  | `코드 리뷰 대회 `                | wyuinche |
 |      |             |                               |          |
-## ROUND 2 - AWS 서비스 직접 사용해보기 (2022.03.09 ~ )
+## ROUND 2 - AWS 서비스 직접 사용해보기 (2022.03.09 ~ 04.27)
 
 1. Lambda
 2. IAM (Identity and Access Management)
-3. ~~EC2 (Elastic Compute Cloud)~~
+3. EC2 (Elastic Compute Cloud)
 4. EB (Elastic Beanstalk)
 5. S3 (Simple Storage Service)
 6. CloudWatch
@@ -29,15 +29,28 @@
 ### 일정
 
 | 주차 | 날짜        | 주제            | 담당자   |
-|------|-------------|-------------------|----------|
-| 1    | 2022.03.09  | `Overview`        | All      |
-| 2    | 2022.03.16  | `CloudWatch`      | soonkuk  |
-| 3    | 2022.03.23  | `VPC`             | soonkuk  |
-| 4    | 2022.03.30  | `EB`              | congchu  |
-| 5    | 2022.04.06  | `IAM`             | uom6uoc  |
-| 6    | 2022.04.13  | `S3`              | Geunbaek |
-| 7    | 2022.04.20  | `Lambda`          | wyuinche |
-|      |             |                   |          |
+|------|-------------|-------------------|------------|
+| 1    | 2022.03.09  | `Overview`        | All        |
+| 2    | 2022.03.16  | `CloudWatch`      | soonkuk    |
+| 3    | 2022.03.23  | `VPC`             | soonkuk    |
+| 4    | 2022.03.30  | `EB`              | congchu    |
+| 5    | 2022.04.06  | `IAM`             | uom6uoc    |
+| 6    | 2022.04.13  | `S3`              | Geunbaek   |
+| 7    | 2022.04.20  | `Lambda`          | wyuinche   |
+| 8    | 2022.04.27  | `EC2`             | PARKINKYUN |
+
+
+## ROUND 3 - ??? (2022.05.04 ~ )
+
+1. ???
+
+### 일정
+
+| 주차 | 날짜        | 주제            | 담당자   |
+|------|-------------|-------------------|------------|
+| 1    | 2022.05.04  | `새로운 주제 선정`    | All        |
+| 2    | 2022.05.11  | `????`      |     | ???        |
+
 
 ## 참여자
 
@@ -47,4 +60,4 @@
 - 박근백 [Geunbaek](https://github.com/Geunbaek) - baek@socialinfratech.com
 - 김현주 [hjoo3355](https://github.com/hjoo3355) - hjoo33550@gmail.com
 - 서종원 [uom6uoc](https://github.com/uom6uoc) - uom6uoc@gmail.com
-- 박인균 [JustinInkyunPark](https://github.com/JustinInkyunPark) - justin.park@socialinfratech.com
+- 박인균 [PARKINKYUN](https://github.com/PARKINKYUN) - justin.park@socialinfratech.com
