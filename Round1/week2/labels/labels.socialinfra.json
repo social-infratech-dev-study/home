@@ -1,38 +1,42 @@
 [
   {
-    "name": "BugFix",
-    "color": "dc3545",
-    "description": "Reported bugs or bug fixes"
-  },
-  {
     "name": "Chore",
-    "color": "e3dede",
-    "description": "Regular code maintenance."
+    "color": "E3DEDE",
+    "description": "정기적인 코드 유지 관리(빌드 수정, 패키지 추가, 환경변수 설정)"
   },
   {
     "name": "Docs",
-    "color": "007bff",
-    "description": "Everything related to documentation"
+    "color": "007BFF",
+    "description": "문서와 관련된 모든 것"
   },
   {
-    "name": "Feature",
+    "name": "Feat",
     "color": "198754",
-    "description": "The new feature you're adding to a particular application"
+    "description": "새로운 기능 추가 또는 기능 업데이트"
   },
-  { "name": "QA", "color": "E93180", "description": "for QA issue" },
+  {
+    "name": "File",
+    "color": "BFDADC",
+    "description": "파일 이동 또는 제거, 파일명 변경"
+  },
+  {
+    "name": "Fix",
+    "color": "DC3545",
+    "description": "버그 또는 에러 수정"
+  },
   {
     "name": "Refactor",
-    "color": "17a2b8",
-    "description": "Refactoring a specific section of the codebase"
+    "color": "17A2B8",
+    "description": "코드 리팩토링(똑같은 기능인데 코드만 개선), 코드 포맷팅, 코드 오타, 함수명 수정 포함"
   },
   {
     "name": "Style",
-    "color": "6f42c1",
-    "description": "Feature and updates related to styling"
+    "color": "6F42C1",
+    "description": "디자인, 문장 수정등 보여지는 UI수정 수정"
   },
   {
     "name": "Test",
-    "color": "ffc107",
-    "description": "Everything related to testing"
+    "color": "FBCA04",
+    "description": "테스트"
   }
 ]
