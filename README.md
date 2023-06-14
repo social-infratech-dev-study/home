@@ -15,7 +15,7 @@
 | 4    | 2022.02.02  | `GitHub Action  `             | Geunbaek |
 | 5    | 2022.02.09  | `Slack Bot`                   | hjoo3355 |
 | 6    | 2022.02.16  | `코드 리뷰 대회 `                | wyuinche |
-|      |             |                               |          |
+
 ## ROUND 2 - AWS 서비스 직접 사용해보기 (2022.03.09 ~ 04.27)
 
 1. Lambda
@@ -53,18 +53,23 @@
 | 2    | 2022.05.11  | `Rust 알고리즘 초급`    | All        |
 | 3    | 2022.05.18  | `각자 풀어와서 설명해주기` | All        |
 | 4    | 2022.05.25  | `각자 풀어와서 설명해주기` | All        |
-| 5    | 2022.06.01  | `각자 풀어와서 설명해주기` | All        |
-
+| 5    | 2022.06.08  | `각자 풀어와서 설명해주기` | All        |
+| 6    | 2022.06.15  | `각자 풀어와서 설명해주기` | All        |
 
 ### Quiz List
+```
 2. Add two number
 59. Spiral Matrix II
+69.Sqrt(x)
 136. Single Number
 202. Happy Number
 503. Next Greater Element II
 521. Longest Uncommon Subsequence I
 522. Longest Uncommon Subsequence II
+606. Construct String from Binary Tree
+1108. Defanging an IP Address
 2658. Maximum Number of Fish in a Grid
+```
 
 
 ## 참여자
