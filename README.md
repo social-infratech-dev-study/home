@@ -55,18 +55,22 @@
 | 4    | 2022.05.25  | `각자 풀어와서 설명해주기` | All        |
 | 5    | 2022.06.08  | `각자 풀어와서 설명해주기` | All        |
 | 6    | 2022.06.15  | `각자 풀어와서 설명해주기` | All        |
+| 7    | 2022.06.22  | `각자 풀어와서 설명해주기` | All        |
 
 ### Quiz List
 ```
 2. Add two number
+35. Search Insert Position
 59. Spiral Matrix II
 69.Sqrt(x)
 136. Single Number
 202. Happy Number
+461. Hamming Distance
 503. Next Greater Element II
 521. Longest Uncommon Subsequence I
 522. Longest Uncommon Subsequence II
 606. Construct String from Binary Tree
+611. Valid Triangle Number
 1108. Defanging an IP Address
 2658. Maximum Number of Fish in a Grid
 ```
