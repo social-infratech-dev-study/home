@@ -34,3 +34,38 @@ queries[i].length == 3
 0 <= typei <= 1
 0 <= indexi < n
 0 <= vali <= 105
+
+
+```rust
+use std::collections::HashMap;
+
+impl Solution {
+    pub fn matrix_sum_queries(n: i32, queries: Vec<Vec<i32>>) -> i64 {
+        let mut answer :i64 = 0;
+        let mut row_count : i16 = 0;
+        let mut col_count : i16 = 0;
+        let mut row_hash : HashMap<i16, bool> = HashMap::new();
+        let mut col_hash : HashMap<i16, bool> = HashMap::new();
+        for i in (0..queries.len()).rev() {
+            if queries[i][0] == 0 {
+                if let Some(_) = row_hash.get(&(queries[i][1] as i16)) {
+                    continue;
+                }
+                answer += (queries[i][2] as i64)*((n as i64)-(col_count as i64));
+                row_count += 1;
+                row_hash.insert(queries[i][1] as i16, true);
+            }
+
+            if queries[i][0] == 1 {
+                if let Some(_) = col_hash.get(&(queries[i][1] as i16)) {
+                    continue;
+                }
+                answer += (queries[i][2] as i64)*((n as i64)-(row_count as i64));
+                col_count += 1;
+                col_hash.insert(queries[i][1] as i16, true);
+            }
+        }
+
+        return answer;
+    }
+```
