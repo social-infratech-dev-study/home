@@ -56,24 +56,39 @@
 | 5    | 2022.06.08  | `각자 풀어와서 설명해주기` | All        |
 | 6    | 2022.06.15  | `각자 풀어와서 설명해주기` | All        |
 | 7    | 2022.06.22  | `각자 풀어와서 설명해주기` | All        |
+| 8    | 2022.06.29  | `각자 풀어와서 설명해주기` | All        |
+
 
 ### Quiz List
+<details>
+<summary>leetcode</summary>
+
 ```
-2. Add two number
-35. Search Insert Position
-59. Spiral Matrix II
-69.Sqrt(x)
-136. Single Number
-202. Happy Number
-461. Hamming Distance
-503. Next Greater Element II
-521. Longest Uncommon Subsequence I
-522. Longest Uncommon Subsequence II
-606. Construct String from Binary Tree
-611. Valid Triangle Number
-1108. Defanging an IP Address
-2658. Maximum Number of Fish in a Grid
+2. Add two number (soonkuk)
+31. Next Permutation (soonkuk)
+35. Search Insert Position (uom6uoc)
+59. Spiral Matrix II (PARKINKYUN)
+69.Sqrt(x) (wyuinche)
+136. Single Number (uom6uoc)
+~ 146. LRU Cache (wyuinche)
+191. Number of 1 Bits (uom6uoc)
+202. Happy Number (uom6uoc)
+335. Self Crossing (soonkuk)
+461. Hamming Distance (wyuinche)
+503. Next Greater Element II (Geunbaek)
+521. Longest Uncommon Subsequence I (PARKINKYUN)
+522. Longest Uncommon Subsequence II (PARKINKYUN)
+606. Construct String from Binary Tree (PARKINKYUN)
+611. Valid Triangle Number (PARKINKYUN)
+898. Bitwise ORs of Subarrays (soonkuk)
+1108. Defanging an IP Address (uom6uoc)
+~ 1620. Coordinate With Maximum Network Quality (PARKINKYUN)
+~ 2328. Number of Increasing Paths in a Grid (Geunbaek)
+2658. Maximum Number of Fish in a Grid (Geunbaek)
+2718. Sum of Matrix After Queries (soonkuk)
 ```
+</details>
+
 
 
 ## 참여자
