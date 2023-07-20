@@ -48,17 +48,17 @@
 ### 일정
 
 | 주차 | 날짜        | 주제            | 담당자   |
-|------|-------------|----------------------|------------|
-| 1    | 2022.05.04  | `새로운 주제 선정`       | All        |
-| 2    | 2022.05.11  | `Rust 알고리즘 초급`    | All        |
-| 3    | 2022.05.18  | `각자 풀어와서 설명해주기` | All        |
-| 4    | 2022.05.25  | `각자 풀어와서 설명해주기` | All        |
-| 5    | 2022.06.08  | `각자 풀어와서 설명해주기` | All        |
-| 6    | 2022.06.15  | `각자 풀어와서 설명해주기` | All        |
-| 7    | 2022.06.22  | `각자 풀어와서 설명해주기` | All        |
-| 8    | 2022.06.29  | `각자 풀어와서 설명해주기` | All        |
-| 9    | 2022.07.13  | `각자 풀어와서 설명해주기` | All        |
-
+|-------|-------------|----------------------|------------|
+| 1     | 2022.05.04  | `새로운 주제 선정`       | All        |
+| 2     | 2022.05.11  | `Rust 알고리즘 초급`    | All        |
+| 3     | 2022.05.18  | `각자 풀어와서 설명해주기` | All        |
+| 4     | 2022.05.25  | `각자 풀어와서 설명해주기` | All        |
+| 5     | 2022.06.08  | `각자 풀어와서 설명해주기` | All        |
+| 6     | 2022.06.15  | `각자 풀어와서 설명해주기` | All        |
+| 7     | 2022.06.22  | `각자 풀어와서 설명해주기` | All        |
+| 8     | 2022.06.29  | `각자 풀어와서 설명해주기` | All        |
+| 9     | 2022.07.13  | `각자 풀어와서 설명해주기` | All        |
+| 10    | 2022.07.20  | `각자 풀어와서 설명해주기` | All        |
 
 ### Quiz List
 <details>
@@ -68,6 +68,7 @@
 2. Add two number (soonkuk)
 31. Next Permutation (soonkuk)
 35. Search Insert Position (uom6uoc)
+44. Wildcard Matching (soonkuk)
 59. Spiral Matrix II (PARKINKYUN)
 69.Sqrt(x) (wyuinche)
 136. Single Number (uom6uoc)
@@ -88,14 +89,18 @@
 611. Valid Triangle Number (PARKINKYUN)
 657. Robot Return to Origin (uom6uoc)
 802. Find Eventual Safe States (Geunbaek)
+863. All Nodes Distance K in Binary Tree (Geunbaek)
 898. Bitwise ORs of Subarrays (soonkuk)
 1108. Defanging an IP Address (uom6uoc)
+1283. Find the Smallest Divisor Given a Threshold (wyuinche)
 1620. Coordinate With Maximum Network Quality (PARKINKYUN)
 1627. Graph Connectivity With Threshold (PARKINKYUN)
 1702. Maximum Binary String After Change (PARKINKYUN)
+1716. Calculate Money in Leetcode Bank (PARKINKYUN)
 2328. Number of Increasing Paths in a Grid (Geunbaek)
 2658. Maximum Number of Fish in a Grid (Geunbaek)
 2718. Sum of Matrix After Queries (soonkuk)
+2780. Minimum Index of a Valid Split (uom6uoc)
 ```
 </details>
 
