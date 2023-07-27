@@ -59,6 +59,7 @@
 | 8     | 2022.06.29  | `각자 풀어와서 설명해주기` | All        |
 | 9     | 2022.07.13  | `각자 풀어와서 설명해주기` | All        |
 | 10    | 2022.07.20  | `각자 풀어와서 설명해주기` | All        |
+| 11    | 2022.07.27  | `각자 풀어와서 설명해주기` | All        |
 
 ### Quiz List
 <details>
@@ -77,6 +78,7 @@
 191. Number of 1 Bits (uom6uoc)
 202. Happy Number (uom6uoc)
 207. Course Schedule (wyuinche)
+208. Implement Trie (Prefix Tree) (Geunbaek)
 335. Self Crossing (soonkuk)
 373. Find K Pairs with Smallest Sums (Geunbaek)
 440. K-th Smallest in Lexicographical Order (soonkuk)
@@ -97,10 +99,12 @@
 1627. Graph Connectivity With Threshold (PARKINKYUN)
 1702. Maximum Binary String After Change (PARKINKYUN)
 1716. Calculate Money in Leetcode Bank (PARKINKYUN)
+1723. Find Minimum Time to Finish All Jobs (PARKINKYUN)
 2328. Number of Increasing Paths in a Grid (Geunbaek)
 2658. Maximum Number of Fish in a Grid (Geunbaek)
 2718. Sum of Matrix After Queries (soonkuk)
 2780. Minimum Index of a Valid Split (uom6uoc)
+2790. Maximum Number of Groups With Increasing Length (uom6uoc)
 ```
 </details>
 
